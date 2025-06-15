@@ -1,9 +1,16 @@
 📌 Project Title: 🕒 Stopwatch Web Application
 
+
+
+
 ✅ Objective:
 The goal of this project is to create a responsive, interactive stopwatch web app that allows users to start, stop, and reset time with a clean and attractive user interface.
 
-🛠️ Technologies Used:
+
+
+🛠️ Technologies Used
+
+
 HTML – For structuring the web page.
 
 CSS – For styling and layout.
@@ -12,6 +19,8 @@ JavaScript – For implementing stopwatch functionality (timer logic, buttons, i
 
 
 ⚙️ Features:
+
+
 🟢 Start Button: Starts the stopwatch from 00:00:00.
 
 ⏸️ Stop Button: Pauses the stopwatch at the current time.
